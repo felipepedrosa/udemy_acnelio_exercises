@@ -1,6 +1,6 @@
-package poo.firstexample.application;
+package poo.exercises.firstexample.application;
 
-import poo.firstexample.entities.Product;
+import poo.exercises.firstexample.entities.Product;
 
 import java.util.Locale;
 import java.util.Scanner;

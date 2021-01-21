@@ -1,4 +1,4 @@
-package poo.firstexample.entities;
+package poo.exercises.firstexample.entities;
 
 public class Product {
     private String name;

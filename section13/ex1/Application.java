@@ -1,9 +1,9 @@
-package secao13.ex1;
+package section13.ex1;
 
-import secao13.ex1.entities.Department;
-import secao13.ex1.entities.HourContract;
-import secao13.ex1.entities.Worker;
-import secao13.ex1.enums.WorkerLevel;
+import section13.ex1.entities.Department;
+import section13.ex1.entities.HourContract;
+import section13.ex1.entities.Worker;
+import section13.ex1.enums.WorkerLevel;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

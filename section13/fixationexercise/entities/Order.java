@@ -1,6 +1,6 @@
-package secao13.fixationexercise.entities;
+package section13.fixationexercise.entities;
 
-import secao13.fixationexercise.entities.enums.OrderStatus;
+import section13.fixationexercise.entities.enums.OrderStatus;
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package secao13.ex1.entities;
+package section13.ex1.entities;
 
 import java.util.Date;
 

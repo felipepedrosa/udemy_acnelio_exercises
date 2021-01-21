@@ -1,4 +1,4 @@
-package secao13.fixationexercise.entities.enums;
+package section13.fixationexercise.entities.enums;
 
 public enum OrderStatus {
     PENDING_PAYMENT,

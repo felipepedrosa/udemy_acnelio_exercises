@@ -1,6 +1,6 @@
-package secao13.ex1.entities;
+package section13.ex1.entities;
 
-import secao13.ex1.enums.WorkerLevel;
+import section13.ex1.enums.WorkerLevel;
 
 import java.util.Calendar;
 import java.util.HashSet;

@@ -1,4 +1,4 @@
-package secao13.ex2.entities;
+package section13.ex2.entities;
 
 public class Comment {
     private String text;

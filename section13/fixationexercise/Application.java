@@ -1,10 +1,10 @@
-package secao13.fixationexercise;
+package section13.fixationexercise;
 
-import secao13.fixationexercise.entities.Client;
-import secao13.fixationexercise.entities.Order;
-import secao13.fixationexercise.entities.OrderItem;
-import secao13.fixationexercise.entities.Product;
-import secao13.fixationexercise.entities.enums.OrderStatus;
+import section13.fixationexercise.entities.Client;
+import section13.fixationexercise.entities.Order;
+import section13.fixationexercise.entities.OrderItem;
+import section13.fixationexercise.entities.Product;
+import section13.fixationexercise.entities.enums.OrderStatus;
 
 import java.text.ParseException;
 import java.util.Locale;

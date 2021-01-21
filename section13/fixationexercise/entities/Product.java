@@ -1,4 +1,4 @@
-package secao13.fixationexercise.entities;
+package section13.fixationexercise.entities;
 
 public class Product {
     private String name;

@@ -1,4 +1,4 @@
-package secao13.ex2.entities;
+package section13.ex2.entities;
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;

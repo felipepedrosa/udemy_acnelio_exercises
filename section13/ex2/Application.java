@@ -1,7 +1,7 @@
-package secao13.ex2;
+package section13.ex2;
 
-import secao13.ex2.entities.Comment;
-import secao13.ex2.entities.Post;
+import section13.ex2.entities.Comment;
+import section13.ex2.entities.Post;
 
 import java.text.ParseException;
 
