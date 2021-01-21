@@ -8,11 +8,11 @@ import java.util.Set;
 import java.util.stream.Collectors;
 
 public class Worker {
-    private final Set<HourContract> contracts = new HashSet<>();
     private String name;
     private WorkerLevel level;
     private Double baseSalary;
     private Department department;
+    private Set<HourContract> contracts = new HashSet<>();
 
     public Worker(String name, WorkerLevel level, Double baseSalary, Department department) {
         this.name = name;
