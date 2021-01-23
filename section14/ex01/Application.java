@@ -46,10 +46,11 @@ public class Application {
 
             employeeList.add(employee);
         }
-        scanner.close();
 
         System.out.println("PAYMENTS: ");
         employeeList.forEach(employee -> System.out.println(employee.payment()));
+
+        scanner.close();
     }
 
 }
