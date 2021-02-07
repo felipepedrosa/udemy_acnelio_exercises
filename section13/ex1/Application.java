@@ -7,7 +7,10 @@ import section13.ex1.enums.WorkerLevel;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
-import java.util.*;
+import java.util.Calendar;
+import java.util.Date;
+import java.util.Locale;
+import java.util.Scanner;
 
 public class Application {
     public static final SimpleDateFormat dateMonthYearDateFormatter = new SimpleDateFormat("dd/MM/yyyy");
