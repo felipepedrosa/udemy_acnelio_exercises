@@ -12,13 +12,10 @@ public final class CollectionUtils {
     /**
      * Checks if a collection is null or empty.
      *
-     * @param collection
-     *  Collection to be checked;
-     *
-     * @return
-     *   {@code Boolean.TRUE} if collection is null or empty, otherwise {@code Boolean.FALSE}.
+     * @param collection Collection to be checked;
+     * @return {@code Boolean.TRUE} if collection is null or empty, otherwise {@code Boolean.FALSE}.
      */
-    public static boolean isNullOrEmpty(Collection<?> collection){
+    public static boolean isNullOrEmpty(Collection<?> collection) {
         return collection == null || collection.isEmpty();
     }
 
