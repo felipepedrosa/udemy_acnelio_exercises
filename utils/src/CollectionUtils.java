@@ -15,7 +15,7 @@ public final class CollectionUtils {
      * @param collection Collection to be checked;
      * @return {@code Boolean.TRUE} if collection is null or empty, otherwise {@code Boolean.FALSE}.
      */
-    public static boolean isNullOrEmpty(Collection<?> collection) {
+    public static <T extends Collection<?>> boolean isNullOrEmpty(T collection) {
         return collection == null || collection.isEmpty();
     }
 
