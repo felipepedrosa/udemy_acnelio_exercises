@@ -1,7 +1,7 @@
-package section20.comparatorexample;
+package section20.comparator;
 
-import section20.comparatorexample.models.Product;
-import section20.comparatorexample.models.ProductCustomComparator;
+import section20.comparator.models.Product;
+import section20.comparator.models.ProductCustomComparator;
 
 import java.util.ArrayList;
 import java.util.Comparator;

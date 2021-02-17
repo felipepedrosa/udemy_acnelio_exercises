@@ -1,4 +1,4 @@
-package section20.comparatorexample.models;
+package section20.comparator.models;
 
 import java.util.Objects;
 
